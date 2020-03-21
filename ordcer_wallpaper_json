@@ -1,0 +1,127 @@
+{
+    "Wallpapers":
+        [
+	    {
+		"author": "",
+		"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper1.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper1.jpg",
+		"name": "Wallpaper 1"
+
+	    },
+	    {
+                "author": "Someone",
+		"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper13.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper13.jpg",
+		"name": "Vintage Guitar"
+	    },
+	    
+	     {
+			"name": "Roar",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper1.jpg"
+ 		},
+		{
+			"name": "Headphones",
+			"author": " ",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper10.jpg",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper10.jpg"
+ 		},
+		{
+			"name": "Wall",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper11.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper10.jpg"		},
+		{
+			"name": "Boots",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper14.jpg",
+ 			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper14.jpg"
+		},
+		{
+			"name": "Stones",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper15.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper15.jpg"
+ 		},
+		{
+			"name": "Simple",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper16.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper16.jpg"
+ 		},
+		{
+			"name": "Vintage Camera",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper17.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper17.jpg"
+ 		},
+		{
+			"name": "Minimal Tall Building",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper18.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper18.jpg"
+ 		},
+		{
+			"name": "Minimal Cheetar",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper2.jpg"
+ 		},
+		{
+			"name": "Camera",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper3.jpg"
+ 		},
+		{
+			"name": "Old Camera",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper4.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper4.jpg"
+ 		},
+		{
+			"name": "Guitar",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper5.jpg"
+ 		},
+		{
+			"name": "Minimal Flower",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper6.jpg"
+ 		},
+		{
+			"name": "Vintage Camera",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper7.jpg"
+  		},
+		{
+			"name": "Railway",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper8.jpg"
+ 		},
+		{
+			"name": "Dice",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper9.jpg"
+  		},
+		{
+			"name": "Winter",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper12.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper12.jpg"
+ 		},
+		{
+			"name": "Vintage Guitar",
+			"author": " ",
+			"url": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/niilante/ordcer/master/wallpapers/wallpaper13.jpg"
+
+ 		}
+        ]
+}
